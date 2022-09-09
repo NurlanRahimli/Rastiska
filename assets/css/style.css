@@ -1,0 +1,14 @@
+.px-5{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+
+.py-3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.text-center{text-align: center;}
+
+.bg-pink{background-color: pink;}
